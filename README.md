@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janvi22-31/Leetcode-and-Greeks-for-greeks/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Janvi22-31/Leetcode-and-Greeks-for-greeks/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Janvi22-31/Leetcode-and-Greeks-for-greeks/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Janvi22-31/Leetcode-and-Greeks-for-greeks/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Janvi22-31/Leetcode-and-Greeks-for-greeks/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
